@@ -17,7 +17,7 @@
 
 - Check out my Resume [Resume](https://drive.google.com/file/d/1EFyDOQnBuZ8qzpgii6FlJOQq3IgRJ00R/view?usp=share_link)
 
-- 💬 Ask me about **JavaScript ,Node.js ,Express.js ,HTML,CSS,**
+- 💬 Ask me about **JavaScript ,Node.js ,Express.js ,HTML,CSS,mongoDB**
 
 - 📫 How to reach me **ingalagipavan@gmail.com**
 
