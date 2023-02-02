@@ -23,8 +23,8 @@
 - We request you to not just submit it last minute
 - Try to keep one submission at a time -->
 
-<h1 align="center">Hi 👋, I'm Pavan Ingalagi</h1>
-<h3 align="center">A passionate and creative Full Stack Web Developer.</h3>
+<h1 align="center" style="color:#3B82F6">Hi 👋, I'm Pavan Ingalagi</h1>
+<h3 align="center" style="color:#DBEAFE">A passionate and creative Full Stack Web Developer.</h3>
 <hr>
 <img align="right" alt="Coding" width="450" height="250" src="https://camo.githubusercontent.com/8ba1e66bcfa048214cf17f235c341742347c9c248831d044aa888acbeec89502/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313239323637372f73637265656e73686f74732f363133393136372f6d656469612f66636637666430633631396262383737303635333330373932343039313566332e676966">
 
