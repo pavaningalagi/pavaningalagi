@@ -42,7 +42,7 @@
 
 - 💬 Ask me about **JavaScript ,Node.js ,Express.js ,HTML,CSS,mongoDB**
 
-- 📫 How to reach me [ingalagipavan@gmail.com](ingalagipavan@gmail.com)
+- 📫 How to reach me [ingalagipavan@gmail.com](https://mailto:ingalagipavan@gmail.com)
 
 
 
