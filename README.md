@@ -1,30 +1,6 @@
-<!-- # GitHub Profile Analyser
+<h1 align="center" style="color:#3B82F6">Hi 👋, I'm Pavan Ingalagi</h1>
+<h3 align="center" style="color:#DBEAFE">A passionate and creative Full Stack Web Developer.</h3>
 
-## Maximum Marks - 10
-
-```
-
-✅ Linkedin to be present in ReadMe - 1 mark
-✅ Links are working in Readme - 1 mark
-✅ Profile description should be present - 1 mark
-✅ At least 50 followers should be present - 1 mark
-✅ Address should be present - 1 mark
-✅ Portfolio link should be present in Profile Section(deployed on github.io) - 1 mark
-✅ Minimum 3 Pinned Repositories to be present - 1 mark
-✅ Pinned Repos have description - 1 mark
-✅ Portfolio link is present in ReadMe & is the same as the deployed link in the Profile Section - 1 mark
-✅ All Links in readme are updated and working - 1 mark
-
-```
-
-#### General guidelines
-
-- The system on cp.masaischool.com may take between 1-20 minutes for responding,
-- We request you to not just submit it last minute
-- Try to keep one submission at a time -->
-
-<h1 align="center">Hi 👋, I'm Pavan Ingalagi</h1>
-<h3 align="center">A passionate and creative Full Stack Web Developer.</h3>
 <hr>
 <img align="right" alt="Coding" width="450" height="250" src="https://camo.githubusercontent.com/8ba1e66bcfa048214cf17f235c341742347c9c248831d044aa888acbeec89502/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313239323637372f73637265656e73686f74732f363133393136372f6d656469612f66636637666430633631396262383737303635333330373932343039313566332e676966">
 
@@ -34,15 +10,16 @@
 
 <!-- About Me section -->
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **Full Stack Web Development**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://pavaningalagi.github.io/)
 
-- Check out my Resume [Resume](https://drive.google.com/file/d/1EFyDOQnBuZ8qzpgii6FlJOQq3IgRJ00R/view?usp=share_link)
-
-- 💬 Ask me about **JavaScript ,Node.js ,Express.js ,HTML,CSS,mongoDB**
+- 💬 Ask me about **NodeJS, ExpressJS, MongoDB, JavaScript, CSS3, HTML5**
 
 - 📫 How to reach me **ingalagipavan@gmail.com**
+
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1EFyDOQnBuZ8qzpgii6FlJOQq3IgRJ00R/view?usp=share_link">Resume</a>
+
 
 
 
