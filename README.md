@@ -42,8 +42,6 @@
 
 - 💬 Ask me about **JavaScript ,Node.js ,Express.js ,HTML,CSS,mongoDB**
 
-- 📫 How to reach me **ingalagipavan@gmail.com**
-
 
 
 
