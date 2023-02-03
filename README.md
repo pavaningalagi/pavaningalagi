@@ -10,15 +10,16 @@
 
 <!-- About Me section -->
 
-- 🌱 I’m currently learning **Full Stack Web Development**
+- 🌱 I’m currently learning **Node.js**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://pavaningalagi.github.io/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://pavaningalagi.github.io/) 
 
-- 💬 Ask me about **NodeJS, ExpressJS, MongoDB, JavaScript, CSS3, HTML5**
 
-- 📫 How to reach me **ingalagipavan@gmail.com**
+- Check out my Resume [Resume](https://drive.google.com/file/d/1EFyDOQnBuZ8qzpgii6FlJOQq3IgRJ00R/view?usp=share_link)
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1EFyDOQnBuZ8qzpgii6FlJOQq3IgRJ00R/view?usp=share_link">Resume</a>
+- 💬 Ask me about **JavaScript ,Node.js ,Express.js ,HTML,CSS,mongoDB**
+
+- 📫 How to reach me [ingalagipavan@gmail.com](mailto:ingalagipavan@gmail.com)
 
 
 
