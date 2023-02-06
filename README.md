@@ -49,12 +49,11 @@
 
 ![Pavan's GitHub stats](https://github-readme-stats.vercel.app/api?username=pavaningalagi&show_icons=true&theme=merko)
 
-![Pavan's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=pavaningali&repo=github-readme-stats)
-
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pavaningalagi&show_icons=true&locale=en&layout=compact&theme=dark" alt="pavaningalagi" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pavaningalagi&show_icons=true&locale=en&layout=compact&theme=dark" alt="pavaningalagi" /></p>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pavaningalagi&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pavaningalagi&repo=convoychat" />
+</a>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
