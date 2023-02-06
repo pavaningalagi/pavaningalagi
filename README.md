@@ -44,11 +44,10 @@
 <p></p>
 
 <!-- Bottom 3 statatics  -->
-[![Pavan's GitHub stats](https://github-readme-stats.vercel.app/api?username=pavaningalagi&theme=radical)](https://github.com/pavaningalagi)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pavaningalagi&theme=neon-dark)](https://git.io/streak-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+![Pavan's GitHub stats](https://github-readme-stats.vercel.app/api?username=pavaningalagi&show_icons=true&theme=radical)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pavaningalagi&show_icons=true&locale=en&layout=compact&theme=dark" alt="pavaningalagi" /></p>
 
