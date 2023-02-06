@@ -18,7 +18,6 @@
 
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1EFyDOQnBuZ8qzpgii6FlJOQq3IgRJ00R/view?usp=share_link">Resume</a>
 
-- 📫 How to reach me **ingalagipavan@gmail.com**
 
 
 
