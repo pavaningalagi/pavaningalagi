@@ -45,7 +45,7 @@
 
 <!-- Bottom 3 statatics  -->
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pavaningalagi&theme=neon-dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pavaningalagi&theme=neon-dark)]
 
 
 ![Pavan's GitHub stats](https://github-readme-stats.vercel.app/api?username=pavaningalagi&show_icons=true&theme=merko)
