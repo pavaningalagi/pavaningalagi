@@ -49,6 +49,8 @@
 
 ![Pavan's GitHub stats](https://github-readme-stats.vercel.app/api?username=pavaningalagi&show_icons=true&theme=merko)
 
+https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pavaningalagi&show_icons=true&locale=en&layout=compact&theme=dark" alt="pavaningalagi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pavaningalagi&show_icons=true&locale=en&layout=compact&theme=dark" alt="pavaningalagi" /></p>
