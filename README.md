@@ -41,8 +41,6 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-<p></p>
-
 <!-- Bottom 3 statatics  -->
 
 <p align="">
