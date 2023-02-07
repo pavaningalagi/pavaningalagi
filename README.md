@@ -45,11 +45,15 @@
 
 <!-- Bottom 3 statatics  -->
 
-[[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pavaningalagi&theme=neon-dark)]](https://github-readme-stats.vercel.app/api/top-langs/?username=pavaningalagi&count_private=true&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8&langs_count=20&hide=hack,swift,kotlin,objective-c)
+<p align="">
+   
+ <img align="left" alt="most used languages" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavaningalagi&count_private=true&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8&langs_count=20&hide=hack,swift,kotlin,objective-c"/>
+
+  <img alt="status github, commits, etc..." width="500px" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=pavaningalagi&count_private=true&show_icons=true&custom_title=Github&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8" />
 
 
-![Pavan's GitHub stats](https://github-readme-stats.vercel.app/api?username=pavaningalagi&show_icons=true&theme=merko)
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="7oSkaaa's Github Stats" align="left" src="https://github-readme-stats.vercel.app/api?username=pavaningalagi&show_icons=true&count_private=true&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=10" height="200px"/></a>
 
+</p>
 
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+<a><img alt="Hanumat Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=pavaningalagi&theme=react-dark&hide_border=true" /></a>
