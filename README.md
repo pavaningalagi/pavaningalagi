@@ -54,4 +54,4 @@
 
 </p>
 
-<a><img alt="Hanumat Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=pavaningalagi&theme=react-dark&hide_border=true" /></a>
+
