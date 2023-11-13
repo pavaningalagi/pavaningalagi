@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://pavaningalagi.github.io/)
 
-- 💬 Ask me about **NodeJS, ExpressJS, MongoDB, JavaScript, CSS3, HTML5**
+- 💬 Ask me about **NodeJS, ExpressJS, MongoDB, PostgreSQL, JavaScript, CSS3, HTML5**
 
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1EFyDOQnBuZ8qzpgii6FlJOQq3IgRJ00R/view?usp=share_link">Resume</a>
 
